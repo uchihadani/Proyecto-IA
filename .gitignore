@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+myenv/
+
+# Archivos sensibles
+.streamlit/secrets.toml
+
+# Archivos generados
+__pycache__/
+*.pyc
+*.pyo
